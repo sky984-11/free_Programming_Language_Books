@@ -40,13 +40,19 @@
 * [邱锡鹏：《神经网络与深度学习》](https://www.alipan.com/s/yzxLjPYLktX)
 * [Coursera 深度学习课程笔记](https://www.alipan.com/s/Usg3KFTzN9U)
 * [使⽤ MXNet Gluon 来动⼿学深度学习](https://www.alipan.com/s/9MdH6UtTpVy)
-* [深度学习](等待更新)
+* [深度学习(待更新)](等待更新)
 
 [返回目录](#书籍清单)
 
 #### PyTorch
-* [PyTorch官方教程中文版](等待更新)
+* [PyTorch官方教程中文版(待更新)](等待更新)
 
 #### TensorFlow
+* [Tensorflow 实战Google深度学习框架(待更新)](等待更新)
+* [Tensorflow 实战(待更新)](等待更新)
+* [TensorFlow 技术解析与实战(待更新)](等待更新)
+* [面向机器智能的TensorFlow实践(待更新)](等待更新)
+* [TensorFlow 深度学习(待更新)](等待更新)
+* [TensorFlow 官方文档中文版(待更新)](等待更新)
 
 #### 自然语言处理
