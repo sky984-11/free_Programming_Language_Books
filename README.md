@@ -10,6 +10,9 @@
 
  * [人工智能](#人工智能)
     * [深度学习](#深度学习)
+      * [PyTorch](#PyTorch)
+      * [TensorFlow](#TensorFlow)
+      * [自然语言处理](#自然语言处理)
     * [机器学习](#机器学习)
  * [数据处理与分析](#数据处理与分析)
  * [工具](#工具)
@@ -37,9 +40,13 @@
 * [邱锡鹏：《神经网络与深度学习》](https://www.alipan.com/s/yzxLjPYLktX)
 * [Coursera 深度学习课程笔记](https://www.alipan.com/s/Usg3KFTzN9U)
 * [使⽤ MXNet Gluon 来动⼿学深度学习](https://www.alipan.com/s/9MdH6UtTpVy)
-## * [深度学习]()
+* [深度学习](等待更新)
 
 [返回目录](#书籍清单)
 
+#### PyTorch
+* [PyTorch官方教程中文版](等待更新)
 
-### 机器学习
+#### TensorFlow
+
+#### 自然语言处理
