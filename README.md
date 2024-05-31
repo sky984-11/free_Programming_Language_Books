@@ -4,8 +4,7 @@
 
 如果这个仓库对你有帮助，欢迎 star。如果这个仓库帮你提升了技能找到了工作，可以请我喝杯咖啡：
 
-<p align="center"><img src="![image](https://github.com/sky984-11/free_Programming_Language_Books/assets/58068214/0d2a7d47-23de-42cd-aacf-b72e54d30931)
-" width="320" height="320" alt="" /></p>
+<p align="center"><img src="https://github.com/sky984-11/free_Programming_Language_Books/assets/58068214/0d2a7d47-23de-42cd-aacf-b72e54d30931" width="320" height="320" alt="" /></p>
 
 ## 书籍清单
 
