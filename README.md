@@ -1,10 +1,19 @@
+<!--
+ * @Date: 2024-05-31 14:44:27
+ * @LastEditors: liupeng
+ * @LastEditTime: 2024-06-03 09:02:50
+ * @FilePath: /free_Programming_Language_Books/README.md
+ * @Desc: 
+-->
 # free_Programming_Language_Books
-免费的计算机编程类中文PDF资源分享，相关资源持续更新中...
+上千本免费的计算机编程类中文PDF资源分享，相关资源持续更新中...
 
 
 如果这个仓库对你有帮助，欢迎 star。如果这个仓库帮你提升了技能找到了工作，可以请我喝杯咖啡：
 
 <p align="center"><img src="https://github.com/sky984-11/free_Programming_Language_Books/assets/58068214/0d2a7d47-23de-42cd-aacf-b72e54d30931" width="320" height="320" alt="" /></p>
+
+链接如果失效可以提Issues，或者发邮箱到1269861316@qq.com联系我进行更新
 
 ## 书籍清单
 
@@ -40,18 +49,18 @@
 * [邱锡鹏：《神经网络与深度学习》](https://www.alipan.com/s/yzxLjPYLktX)
 * [Coursera 深度学习课程笔记](https://www.alipan.com/s/Usg3KFTzN9U)
 * [使⽤ MXNet Gluon 来动⼿学深度学习](https://www.alipan.com/s/9MdH6UtTpVy)
-* [深度学习(待更新)](等待更新)
+* [深度学习](https://www.alipan.com/s/soaEzaTSyrK)
 
 [返回目录](#书籍清单)
 
 #### PyTorch
-* [PyTorch官方教程中文版(待更新)](等待更新)
+* [PyTorch官方教程中文版](https://www.alipan.com/s/K8CV5vv5Ad2)
 [返回目录](#书籍清单)
 
 #### TensorFlow
-* [Tensorflow 实战Google深度学习框架(待更新)](等待更新)
-* [Tensorflow 实战(待更新)](等待更新)
-* [TensorFlow 技术解析与实战(待更新)](等待更新)
+* [Tensorflow 实战Google深度学习框架](https://www.alipan.com/s/Jc6dRC4YvU8)
+* [Tensorflow 实战](https://www.alipan.com/s/hXGRmwzP4WE)
+* [TensorFlow 技术解析与实战](https://www.alipan.com/s/ujkY6rsfq1R)
 * [面向机器智能的TensorFlow实践(待更新)](等待更新)
 * [TensorFlow 深度学习(待更新)](等待更新)
 * [TensorFlow 官方文档中文版(待更新)](等待更新)
