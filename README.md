@@ -1,7 +1,7 @@
 <!--
  * @Date: 2024-05-31 14:44:27
  * @LastEditors: liupeng
- * @LastEditTime: 2024-06-04 14:40:54
+ * @LastEditTime: 2024-06-04 14:42:57
  * @FilePath: /free_Programming_Language_Books/README.md
  * @Desc: 
 -->
@@ -37,7 +37,6 @@
     * [计算机底层原理](#计算机底层原理)
     * [IOS](#IOS)
     * [Mac](#Mac)
-    * [Windows](#Windows)
     * [Docker](#Docker)
     * [Linux](#Linux)
  * [网络](#网络)
@@ -154,9 +153,6 @@
 
 ### Mac
 * [macOS 10.15 Catalina 苹果Mac操作系统 新⼿⼊⻔(待更新)](等待更新)
-[返回目录](#书籍清单)
-
-### Windows
 [返回目录](#书籍清单)
 
 ### Docker
