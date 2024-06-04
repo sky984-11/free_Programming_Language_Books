@@ -1,7 +1,7 @@
 <!--
  * @Date: 2024-05-31 14:44:27
  * @LastEditors: liupeng
- * @LastEditTime: 2024-06-03 09:02:50
+ * @LastEditTime: 2024-06-04 09:35:49
  * @FilePath: /free_Programming_Language_Books/README.md
  * @Desc: 
 -->
@@ -71,4 +71,13 @@
 * [PYTHON自然语言处理中文翻译(待更新)](等待更新)
 * [统计自然语言处理基础(待更新)](等待更新)
 * [Python自然语言处理实战 核心技术与算法(待更新)](等待更新)
+[返回目录](#书籍清单)
+
+
+## 网络
+* [TCP-IP详解卷](https://www.alipan.com/s/wb5ET7LXqn6)
+* [CCNA学习指南中文(第七版)](https://www.alipan.com/s/vE97UfLf81B)
+* [图解服务器端网络架构](https://www.alipan.com/s/qmTwE9qHDU9)
+* [TCP/IP网络编程](https://www.alipan.com/s/tS3sZjVjvXz)
+* [图解网络硬件](https://www.alipan.com/s/ePcNb4JcxjG)
 [返回目录](#书籍清单)
