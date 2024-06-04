@@ -1,19 +1,19 @@
 <!--
  * @Date: 2024-05-31 14:44:27
  * @LastEditors: liupeng
- * @LastEditTime: 2024-06-04 09:35:49
+ * @LastEditTime: 2024-06-04 09:43:36
  * @FilePath: /free_Programming_Language_Books/README.md
  * @Desc: 
 -->
 # free_Programming_Language_Books
-上千本免费的计算机编程类中文PDF资源分享，相关资源持续更新中...
+上千本免费的计算机编程类中文PDF资源分享，每天更新5本，相关资源持续更新中...
 
 
 如果这个仓库对你有帮助，欢迎 star。如果这个仓库帮你提升了技能找到了工作，可以请我喝杯咖啡：
 
 <p align="center"><img src="https://github.com/sky984-11/free_Programming_Language_Books/assets/58068214/0d2a7d47-23de-42cd-aacf-b72e54d30931" width="320" height="320" alt="" /></p>
 
-链接如果失效可以提Issues，或者发邮箱到1269861316@qq.com联系我进行更新
+链接如果失效或者需要待更新中的书籍，都可以提Issues，或者发邮箱到1269861316@qq.com联系我进行更新
 
 ## 书籍清单
 
@@ -80,4 +80,18 @@
 * [图解服务器端网络架构](https://www.alipan.com/s/qmTwE9qHDU9)
 * [TCP/IP网络编程](https://www.alipan.com/s/tS3sZjVjvXz)
 * [图解网络硬件](https://www.alipan.com/s/ePcNb4JcxjG)
+* [计算机网络(第7版)(待更新)](等待更新)
+* [计算机网络：自顶向下方法(待更新)](等待更新)
+* [04741计算机网络原理(待更新)](等待更新)
+* [图解TCP/IP(第5版)(待更新)](等待更新)
+* [图解网络(待更新)](等待更新)
+* [TCP/IP高效编程 改善网络程序的44个技巧(待更新)](等待更新)
+* [HTTP权威指南(待更新)](等待更新)
+* [HTTPS权威指南：在服务器和Web应用上部署SSL/TLS和PKI(待更新)](等待更新)
+* [Web性能权威指南(待更新)](等待更新)
+* [网络是怎样连接的(待更新)](等待更新)
+* [图解HTTP(待更新)](等待更新)
+* [Fiddler调试权威指南(待更新)](等待更新)
+* [HTTP/2基础教程：让Web性能更上一层楼(待更新)](等待更新)
+* [编码 隐匿在计算机软硬件背后的语言(待更新)](等待更新)
 [返回目录](#书籍清单)
