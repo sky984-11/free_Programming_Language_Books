@@ -1,7 +1,7 @@
 <!--
  * @Date: 2024-05-31 14:44:27
  * @LastEditors: liupeng
- * @LastEditTime: 2024-06-04 15:17:53
+ * @LastEditTime: 2024-06-05 08:59:02
  * @FilePath: /free_Programming_Language_Books/README.md
  * @Desc: 
 -->
@@ -75,16 +75,16 @@
 * [Tensorflow 实战Google深度学习框架](https://www.alipan.com/s/Jc6dRC4YvU8)
 * [Tensorflow 实战](https://www.alipan.com/s/hXGRmwzP4WE)
 * [TensorFlow 技术解析与实战](https://www.alipan.com/s/ujkY6rsfq1R)
-* [面向机器智能的TensorFlow实践(待更新)](等待更新)
-* [TensorFlow 深度学习(待更新)](等待更新)
-* [TensorFlow 官方文档中文版(待更新)](等待更新)
+* [面向机器智能的TensorFlow实践](https://www.alipan.com/s/KcnDwfKZgiJ)
+* [TensorFlow 2.0 深度学习](https://www.alipan.com/s/Jiw1JhYfTGa)
+* [TensorFlow 方文档中文版](https://www.alipan.com/s/VaHPfb4kwg8)
 [返回目录](#书籍清单)
 
 #### 自然语言处理
-* [计算机自然语言处理(待更新)](等待更新)
-* [PYTHON自然语言处理中文翻译(待更新)](等待更新)
-* [统计自然语言处理基础(待更新)](等待更新)
-* [Python自然语言处理实战 核心技术与算法(待更新)](等待更新)
+* [计算机自然语言处理(待更新)]()
+* [统计自然语言处理基础](https://www.alipan.com/s/ZraEMTT9ngX)
+* [用Python进行自然语言处理(待更新)]()
+* [Python自然语言处理实战 核心技术与算法](https://www.alipan.com/s/EwPYLSskxFb)
 [返回目录](#书籍清单)
 
 
