@@ -1,7 +1,7 @@
 <!--
  * @Date: 2024-05-31 14:44:27
  * @LastEditors: liupeng
- * @LastEditTime: 2024-06-05 08:59:02
+ * @LastEditTime: 2024-06-06 10:27:12
  * @FilePath: /free_Programming_Language_Books/README.md
  * @Desc: 
 -->
@@ -81,17 +81,17 @@
 [返回目录](#书籍清单)
 
 #### 自然语言处理
-* [计算机自然语言处理(待更新)]()
+* [计算机自然语言处理](https://www.alipan.com/s/7m84XRGZ5Wk)
 * [统计自然语言处理基础](https://www.alipan.com/s/ZraEMTT9ngX)
-* [用Python进行自然语言处理(待更新)]()
+* [用Python进行自然语言处理](https://www.alipan.com/s/Djv227miM2k)
 * [Python自然语言处理实战 核心技术与算法](https://www.alipan.com/s/EwPYLSskxFb)
 [返回目录](#书籍清单)
 
 
 ## Web服务器
-* [WebGL编程指南(待更新)](等待更新)
-* [Web性能权威指南(待更新)](等待更新)
-* [Web服务精髓(待更新)](等待更新)
+* [WebGL编程指南](https://www.alipan.com/s/f9Lj3N1JqEL)
+* [Web性能权威指南](https://www.alipan.com/s/AENKKsaEMz3)
+* [Web服务精髓](https://www.alipan.com/s/bigyVvk93Xs)
 [返回目录](#书籍清单)
 
 ### Nginx
