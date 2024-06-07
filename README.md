@@ -1,7 +1,7 @@
 <!--
  * @Date: 2024-05-31 14:44:27
  * @LastEditors: liupeng
- * @LastEditTime: 2024-06-06 10:27:12
+ * @LastEditTime: 2024-06-07 16:54:41
  * @FilePath: /free_Programming_Language_Books/README.md
  * @Desc: 
 -->
@@ -95,11 +95,11 @@
 [返回目录](#书籍清单)
 
 ### Nginx
-* [深入理解Nginx模块开发及架构解析(待更新)](等待更新)
-* [深入理解Nginx模块开发与架构解析(第2版)(待更新)](等待更新)
-* [实战Nginx：取代Apache的高性能Web服务器(待更新)](等待更新)
-* [Nginx教程从入门到精通(待更新)](等待更新)
-* [Nginx 入门指南(待更新)](等待更新)
+* [深入理解Nginx模块开发及架构解析](https://www.alipan.com/s/vTcH8kQ7whv)
+* [深入理解Nginx模块开发与架构解析(第2版)](https://www.alipan.com/s/HNYMQAzfBEp)
+* [实战Nginx：取代Apache的高性能Web服务器](https://www.alipan.com/s/rte7UbqFWqF)
+* [Nginx教程从入门到精通](https://www.alipan.com/s/FUZ2KbesHdv)
+* [Nginx 入门指南](https://www.alipan.com/s/pYt8zaXVJxE)
 [返回目录](#书籍清单)
 
 ## 系统
